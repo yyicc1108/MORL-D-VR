@@ -4,12 +4,10 @@ which is submitted to **_IEEE Transactions on Neural Networks and Learning Syste
 
 
 This is the demo results of traninng process for the proposed MORL/D-VR algorithm, where the first column represents the timesteps and the other is about the metrics.
-
 <div align=center><img src=https://github.com/yyicc1108/MORL-D-VR/blob/master/img/fig1.png width="60%"></div>  
 
 
-Learning curves of the average and 95\% confidence interval of HV obtained by MORL/D-VR and MORL/D on DST-1, DST-2, DST-3, and DST-4 tasks:
-
+The following is about learning curves of the average obtained by MORL/D-VR and MORL/D on DST-1, DST-2, DST-3, and DST-4 tasks:
 <div align="center">
     <img src="https://github.com/yyicc1108/MORL-D-VR/blob/master/img/4.png" alt="图片1" width="24%" style="max-width: 300px;">
     <img src="https://github.com/yyicc1108/MORL-D-VR/blob/master/img/5.png" alt="图片2" width="24%" style="max-width: 300px;">
